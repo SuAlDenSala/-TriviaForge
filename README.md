@@ -299,3 +299,51 @@ Built by the **TriviaForge Team** as a full-stack PHP + MySQL + Vanilla JS web a
 ## 📄 License
 
 This project is for educational and personal use. Feel free to fork and customize.
+
+---
+
+## 🖼 Screenshots
+
+### Explore Quizzes
+Browse and filter all published quizzes by category and difficulty.
+
+![Explore Quizzes](screenshots/explore.png)
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+### Custom Quiz Builder
+Create custom quizzes with timed questions, categories, difficulty levels, and image attachments.
+
+![Custom Quiz Builder](screenshots/creator.png)
+
+---
+
+### Dynamic Leaderboards
+Live global ranking showcase. Speed and high accuracy yield maximum points.
+
+![Dynamic Leaderboards](screenshots/leaderboard.png)
+
+---
+
+### How to Play & Rules
+Step-by-step guide covering explore, timed delivery, streaks, bonuses, and creator features.
+
+![How to Play & Rules](screenshots/help.png)
+
+---
+
+### Settings & Account
+Sign In / Sign Up inline, manage profile, change appearance theme, and log out.
+
+![Settings & Account](screenshots/settings.png)
